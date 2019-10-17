@@ -1,4 +1,4 @@
-# Juice Dataset
+# JuICe Dataset
 Code for the [paper](https://arxiv.org/abs/1910.02216). This repository produces the dataset from the collected Jupyter notebooks. The dataset is available [here](https://drive.google.com/file/d/1xWDV__5hjTWVuJlXD42Ar7nkjU2hRTic/view?usp=sharing) if you don't want to run this pipeline. Modeling code is [here](https://github.com/rajasagashe/JuICe-models).
 
 ## Leaderboard
