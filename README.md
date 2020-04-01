@@ -13,8 +13,8 @@ Get the notebooks [here](https://drive.google.com/file/d/1hNtknKrJyOXBM5IfApYs_Y
 
 
 ## Setup
-    conda create -n {name} python=3.6 anaconda
-    source activate {name}
+    conda create -n {name} python=3.6
+    conda activate {name}
     
     pip install -r requirements.txt
     
